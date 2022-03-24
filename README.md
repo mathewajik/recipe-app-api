@@ -1,4 +1,4 @@
-# Recipe App REST API Project
+# Recipe App REST API
 
 An advanced recipe API that allows you to upload and store your favourite recipes from photos and the web. 
 
